@@ -1,0 +1,19 @@
+# Ignorera Python cache-filer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorera virtuellt Python-miljö
+venv/
+
+# Ignorera loggar
+*.log
+
+# Ignorera OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# Ignorera editor/IDE-mappar
+.vscode/
+.idea/
